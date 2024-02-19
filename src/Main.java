@@ -4,6 +4,8 @@ public class Main {
         System.out.println("second line");
         System.out.println("3rd line");
         System.out.println();
+        System.out.println("Sigmund says hi");
         //commit -m : add message to commit
+
     }
 }

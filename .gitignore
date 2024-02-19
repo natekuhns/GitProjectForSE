@@ -28,6 +28,6 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-### everything in the .idea directory ###
+### everything in the .idea directory that ends in .iml ###
 .idea/
 *.iml
